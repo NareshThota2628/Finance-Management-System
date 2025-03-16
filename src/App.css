@@ -1,38 +1,74 @@
-.App {
-  text-align: center;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Animations */
+@keyframes gradient-x {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Custom Classes */
+.animate-gradient-x {
+  background-size: 200% 200%;
+  animation: gradient-x 6s ease infinite;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.animate-shimmer {
+  animation: shimmer 1.5s infinite;
 }
 
-.App-link {
-  color: #61dafb;
+/* Global Styles */
+body {
+  font-family: 'Inter', sans-serif;
+  @apply text-gray-800;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1, h2, h3 {
+  @apply font-bold;
+}
+
+h1 {
+  @apply text-4xl;
+}
+
+h2 {
+  @apply text-3xl;
+}
+
+h3 {
+  @apply text-2xl;
+}
+
+/* Custom Gradients */
+.bg-gradient-primary {
+  @apply bg-gradient-to-r from-cyan-500 to-blue-600;
+}
+
+.bg-gradient-secondary {
+  @apply bg-gradient-to-r from-purple-500 to-pink-600;
+}
+
+/* Button Styles */
+.btn-primary {
+  @apply bg-gradient-primary text-white px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity;
+}
+
+.btn-secondary {
+  @apply bg-gradient-secondary text-white px-6 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity;
+}
+
+/* Card Styles */
+.card {
+  @apply bg-white rounded-xl shadow-lg p-6 border border-gray-100;
+}
+
+.card-hover {
+  @apply transition-transform hover:-translate-y-2 hover:shadow-xl;
 }
