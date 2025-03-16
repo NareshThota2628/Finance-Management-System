@@ -1,0 +1,304 @@
+2025-03-16 17:51:28 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 17:51:50 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 17:53:05 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 17:53:57 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 17:54:38 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:11:46 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:12:06 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:12:39 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:15:37 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:17:06 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:18:42 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:19:04 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:20:53 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:22:06 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:23:12 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:24:00 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:30:46 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:32:06 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+2025-03-16 18:34:13 [[31MERROR[39M]: Error: Cannot find module 'nodemailer'
+Require stack:
+- D:\finance-app\backend\services\email.service.js
+- D:\finance-app\backend\controllers\auth.controller.js
+- D:\finance-app\backend\routes\auth.routes.js
+- D:\finance-app\backend\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (D:\finance-app\backend\services\email.service.js:1:20)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)

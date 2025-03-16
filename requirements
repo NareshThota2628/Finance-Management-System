@@ -1,0 +1,3 @@
+npm install winston
+npm install punycode
+npm update whatwg-url
